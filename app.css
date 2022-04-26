@@ -163,7 +163,7 @@ body {
 
 }
 
-.skills {
+h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.4em;
     width: 260px;
@@ -173,7 +173,7 @@ body {
     line-height: 1.2em;
 }
 
-.scan {
+p {
     font-weight: 400;
     padding: 20px;
     line-height: 1.2em;
@@ -183,14 +183,3 @@ body {
     text-align: center;
 }
 
-
-/* .attribution {
-    font-size: 11px;
-    text-align: center;
-    transform: translateY(15px);
-}
-
-.attribution a,
-a {
-    color: hsl(228, 45%, 44%);
-} */
